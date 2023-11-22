@@ -1,9 +1,9 @@
 # About Me
 
 ### Hi there 👋, my name is Mohamed.
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Bssd07/MohamedBouassid/assets/99046765/4e99f113-859e-4f51-8127-3a0d913a9efe)
 I have a Master of Science and Technology in Computer Science and Complex Systems Engineering. 
 My areas of expertise are web development, machine learning, and data science.
-
 - 📫 How to reach me: mohamedbouassid11@gmail.com
 
 ---
