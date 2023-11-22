@@ -1,10 +1,14 @@
 # About Me
 
-![Github banner](https://github.com/Bssd07/MohamedBouassid/assets/99046765/3b6bee25-b48f-40e3-9ee5-47613fbead3e)
 ### Hi there 👋, my name is Mohamed.
-I have a Master of Science and Technology in Computer Science and Complex Systems Engineering. 
+![Github banner](https://github.com/Bssd07/MohamedBouassid/assets/99046765/3b6bee25-b48f-40e3-9ee5-47613fbead3e)
+
+I am from Morocoo, and I have a Master of Science and Technology in Computer Science and Complex Systems Engineering. 
 My areas of expertise are web development, machine learning, and data science.
-- 📫 How to reach me: mohamedbouassid11@gmail.com
+
+### How to reach me
+- 📧 E-mail:   mohamedbouassid11@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/mohamed-bouassid-179a09239/
 
 ---
 
