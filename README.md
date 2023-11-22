@@ -6,20 +6,15 @@ My areas of expertise are web development, machine learning, and data science.
 
 - 📫 How to reach me: mohamedbouassid11@gmail.com
 
+---
 
 ### Skills: 
 - **Programming Languages :** C / C++ / Java / JavaScript / Python / VBA
----
 - **Web Developement :** HTML / CSS / JS / Bootstrap/ REACT / Node.js / Three.js / WebXR
----
 - **Databases :** SQL Server / MySQL / MongoDB
----
 - **Machine Learning :** ScikitLearn / TensorFlow / Keras
----
 - **Data Science :** Pandas / Numpy / MatPlotLib / Seaborn / Excel / Power BI
----
 - **Images Processing :** Matlab / OpenCV
----
 - **Mathematics :** Statistics / Probability / Linear Algebra / Numerical Methods / Optimization
 ---
 
